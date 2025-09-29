@@ -53,8 +53,8 @@ This project develops a dimensional model and star schema for Handlebar Haven, a
 Handlebar-Haven-Dimensional-Model/  
 ├── README.md                                # Project overview  
 ├── BSAN7206_A1_MadelineCoert_s4973657.pdf   # Final PDF report with full design  
-├── star_schema_diagram.png                   # Star schema visual (if available)  
-├── data_dictionary.xlsx                      # Data dictionary (optional)  
+├── star_schema_diagram.png                   # Star schema visual   
+├── data_dictionary.xlsx                      # Data dictionary 
 ├── scripts/                                  # SQL / ETL / transformation scripts  
 └── figures/                                  # Supporting diagrams, visuals  
 
@@ -72,3 +72,5 @@ This project deepened my understanding of dimensional modelling by assembling a 
 Graduate Certificate in Business Analytics – University of Queensland  
 
 📍 Brisbane, Australia  
+📧 madelinecoert@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/madeline-coert-546667309)  
