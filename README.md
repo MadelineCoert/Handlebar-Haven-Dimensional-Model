@@ -1,10 +1,8 @@
 # Handlebar-Haven-Dimensional-Model
 Designed a Kimball-style dimensional model and star schema for Handlebar Haven to analyse profitability across customers, products, suppliers, territories and time, enabling data-driven decision making.
-# Handlebar Haven Dimensional Model
----
 
 ## Final Report  
-**[🔗 View the full PDF report here](BSAN7206_A1_MadelineCoert_s4973657.pdf)**  
+**[🔗 View the full PDF report here](HandlebarHaven_Model_MadelineCoert.pdf)**  
 *A complete star schema design with fact/dimension tables, hierarchies, keys and ETL considerations.*
 
 This project develops a dimensional model and star schema for Handlebar Haven, a bicycle retailer preparing for expansion. The model enables the leadership team to analyse profitability by customer, product, supplier, territory and time, supporting confident, data-driven decisions.
